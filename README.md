@@ -1,1 +1,1 @@
-# my-project
+Product-statsu-updater
